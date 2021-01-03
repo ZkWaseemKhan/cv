@@ -1,0 +1,42 @@
+body{
+            background-color:#cbd6d1;
+            width:100%;
+            text-transform: capitalize;
+            font-family: cursive;
+        }
+hr{
+            width:5%;
+            border-width:5px;
+            border-color:grey;
+            border-style: dotted none none none;
+        }
+div{
+            width:10px;
+            height:10px;
+            border-radius:50%;
+            background-color:rgb(189, 177, 177);
+            display:inline-block;
+            border:1px solid red;
+            
+        }
+table{
+    border-collapse:collapse;
+}
+#horizantalline{
+    
+    width:100%;
+    border-style:solid;
+}
+#resume{
+    text-align:center;
+    
+}
+h1,h2{
+    text-transform:uppercase;
+}
+.mail{
+    text-transform: none;
+}
+td{
+    text-align:center;
+}
